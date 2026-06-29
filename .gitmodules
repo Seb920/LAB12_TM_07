@@ -1,0 +1,6 @@
+[submodule "TFLite_Image_Classification_actividad_TM12"]
+	path = TFLite_Image_Classification_actividad_TM12
+	url = https://github.com/Seb920/TFLite_Image_Classification_actividad_TM12.git
+[submodule "TFLite_Digit_Classification_Demo_ejercicio_1_TM_12"]
+	path = TFLite_Digit_Classification_Demo_ejercicio_1_TM_12
+	url = https://github.com/Seb920/TFLite_Digit_Classification_Demo_ejercicio_1_TM_12.git
